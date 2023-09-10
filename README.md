@@ -76,9 +76,9 @@ Untuk memasukkan path file catatan pembayaran, anda dapat mengisikan dengan form
 
 | Path Type     | Your File Path                                                                                                                                                                       | 
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| File Name     | [pembayaran_mei.txt](pembayaran_mei.txt, "File pembayaran_mei.txt")                                                                                                                  |
-| Relative Path | [./file_catatan_pembayaran/pembayaran_juni.txt](./file_catatan_pembayaran/pembayaran_juni.txt, "File pembayaran_juni.txt")                                                           |
-| Absolute Path | [D:\BINUS\kuliah\PDM\Group Assignments\TK-1\Soal 2 Source Code\file_catatan_pembayaran\pembayaran_juli.txt](file_catatan_pembayaran/pembayaran_juli.txt, "File pembayaran_juli.txt") |
+| File Name     | [pembayaran_mei.txt](pembayaran_mei.txt "File pembayaran_mei.txt")                                                                                                                  |
+| Relative Path | [./file_catatan_pembayaran/pembayaran_juni.txt](./file_catatan_pembayaran/pembayaran_juni.txt "File pembayaran_juni.txt")                                                           |
+| Absolute Path | [D:\BINUS\kuliah\PDM\Group Assignments\TK-1\Soal 2 Source Code\file_catatan_pembayaran\pembayaran_juli.txt](file_catatan_pembayaran/pembayaran_juli.txt "File pembayaran_juli.txt") |
 
 
 Contoh File Name:
