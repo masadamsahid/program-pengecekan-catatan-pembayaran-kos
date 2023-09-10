@@ -1,0 +1,6 @@
+2 Mei 2020	10	Rp. 1100.000,-	Tepat Waktu
+2 Mei 2020	4	Rp. 1200.000,-	Tepat Waktu
+3 Mei 2020	1	Rp. 1400.000,-	Tepat Waktu
+10 Mei 2020	7	Rp. 1000.000,-	Tidak Tepat Waktu
+12 Mei 2020	0	Rp. 1200.000,-	Tidak Tepat Waktu
+99
