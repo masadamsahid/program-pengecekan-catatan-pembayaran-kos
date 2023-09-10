@@ -12,6 +12,7 @@ Contents:
     - [Menjalankan project](#menjalankan-project)
     - [Petunjuk Input](#petunjuk-input)
     - [File Catatan Pembayaran untuk Test Cases](#file-catatan-pembayaran-untuk-test-cases)
+    - [Module Hierarchy Chart](#module-hierarchy-chart)
 
 
 ## Problem Definition:
@@ -110,7 +111,13 @@ Kamar yang diberi peringatan: 3
 Jumlah total uang pembayaran: Rp. 8100000,-
 ```
 
+
 ### File Catatan Pembayaran untuk Test Cases
 
 Dalam project ini telah disediakan beberapa file catatan pembayaran untuk melakukan pengujian. File tersebut dapat anda akses pada direktori [`./file_catatan_pembayaran`](./file_catatan_pembayaran "Folder file_catatan_pembayaran").
+
+
+## Module Hierarchy Chart
+
+![image](https://github.com/masadamsahid/program-pengecekan-catatan-pembayaran-kos/assets/62916459/3071460e-7d0c-43fc-8d2f-7f86dd477186)
 
