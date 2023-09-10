@@ -1,0 +1,9 @@
+# IDE and text editors
+.idea
+
+# external packages
+node_modules
+
+# ts build
+build
+

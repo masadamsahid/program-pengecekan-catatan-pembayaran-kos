@@ -1,0 +1,8 @@
+1 Agustus 2020	3	Rp. 1100.000,-	Tepat Waktu
+2 Agustus 2020	4	Rp. 1200.000,-	Tepat Waktu
+2 Agustus 2020	9	Rp. 1400.000,-	Tepat Waktu
+5 Agustus 2020	2	Rp. 900.000,-	Tepat Waktu
+7 Agustus 2020	1	Rp. 850.000,-	Tidak Tepat Waktu
+7 Agustus 2020	8	Rp. 1000.000,-	Tidak Tepat Waktu
+9 Agustus 2020	5	Rp. 1200.000,-	Tidak Tepat Waktu
+99

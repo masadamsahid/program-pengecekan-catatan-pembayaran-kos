@@ -1,0 +1,7 @@
+1 Juni 2020	1	Rp. 1000.000,-	Tepat Waktu
+1 Juni 2020	4	Rp. 1000.000,-	Tepat Waktu
+2 Juni 2020	6	Rp. 1000.000,-	Tepat Waktu
+3 Juni 2020	10	Rp. 1000.000,-	Tepat Waktu
+5 Juni 2020	9	Rp. 1000.000,-	Tepat Waktu
+6 Juni 2020	3	Rp. 1000.000,-	Tidak Tepat Waktu
+99

@@ -1,0 +1,25 @@
+{
+  "name": "prestisa-se-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\"./build/index.js\"",
+  "scripts": {
+    "start": "tsc && node build/index.js",
+    "start-directly": "node build/index.js",
+    "build": "tsc",
+    "dev": "nodemon build/index.js",
+    "ts-watch": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "masadamsahid",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@types/node": "^20.6.0",
+    "@types/readline-sync": "^1.4.4",
+    "readline-sync": "^1.4.10"
+  }
+}
